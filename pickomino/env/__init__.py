@@ -1,0 +1,1 @@
+from pickomino.env.pickomino import PickominoEnv
